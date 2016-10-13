@@ -1,3 +1,4 @@
 print('Hello Multiverse')
-freq=3
-print('tuning to '+str(freq)+' dimension')
+freqs=7
+for i in range(freqs):
+  print('tuning to '+str(i)+' dimension')
